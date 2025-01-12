@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Ayaan</h1>
+<h1 align="center">Hi 👋, I'm Ayaan</h1>
 <h3 align="center">Full Stack Developer and Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdayaan786&label=Profile%20views&color=0e75b6&style=flat" alt="mohdayaan786" /> </p>
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdayaan786&show_icons=true&locale=en" alt="mohdayaan786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdayaan786&" alt="mohdayaan786" /></p>
+
